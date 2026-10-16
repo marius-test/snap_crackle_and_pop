@@ -11,14 +11,14 @@ A visual physics demonstration built in **Python**, exploring higher derivatives
 
 ### Libraries (tbd)
 
-- `pygame` — Real-time graphics and animation
-- `numpy` — Numerical calculations and array operations
-- `matplotlib` — Graphs and plotting
-- `scipy` — Scientific computing and numerical methods
-- `pandas` — Organizing and analyzing simulation data
-- `Pillow` — Image processing and rendering support
-- `jupyter` — Interactive experimentation with equations and calculations
-- `math` — Built-in mathematical functions
+- `pygame` - Real-time graphics and animation
+- `numpy` - Numerical calculations and array operations
+- `matplotlib` - Graphs and plotting
+- `scipy` - Scientific computing and numerical methods
+- `pandas` - Organizing and analyzing simulation data
+- `Pillow` - Image processing and rendering support
+- `jupyter` - Interactive experimentation with equations and calculations
+- `math` - Built-in mathematical functions
 
 ### Physics Concepts
 
